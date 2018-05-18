@@ -1,1 +1,120 @@
 # Leetcode_JS
+## Easy
+- [x] Two Sum
+- [x] Remove Duplicates from Sorted Array
+- [ ] Maximum Depth of Binary Tree
+- [ ] Same Tree
+- [ ] Best Time to Buy and Sell Stock II
+- [ ] Binary Tree Inorder Traversal
+- [ ] Binary Tree Preorder Traversal
+- [ ] Linked List Cycle
+- [ ] Search Insert Position
+- [ ] Remove Duplicates from Sorted List
+- [ ] Climbing Stairs
+- [ ] Roman to Integer
+- [x] Maximum Subarray
+- [ ] Merge Two Sorted Lists
+- [x] Pascal’s Triangle
+- [ ] Balanced Binary Tree
+- [ ] Convert Sorted Array to Binary Search Tree
+- [x] Merge Sorted Array
+- [ ] Sort Colors
+- [ ] Binary Tree Level Order Traversal II
+- [ ] Permutations
+- [x] Plus One
+- [ ] Binary Tree Postorder Traversal
+- [ ] Unique Path
+- [ ] Binary Tree Level Order Traversal
+- [ ] Minimum Path Sum
+- [ ] Pascal’s Triangle II
+- [ ] Sum Root to Leaf Numbers
+- [ ] Minimum Depth of Binary Tree
+- [ ] Length of Last Word
+- [ ] Search in Rotated Sorted Array
+- [ ] Valid Parentheses
+- [ ] Valid Sudoku
+- [ ] Subsets
+- [ ] Longest Common Prefix
+- [ ] Search for a Range
+- [ ] Validate Binary Search Tree
+- [ ] Add Binary
+- [ ] Remove Duplicates from Sorted List II
+- [ ] Merge k Sorted Lists
+- [ ] Add Two Numbers
+- [ ] Valid Palindrome
+- [ ] Rotate List
+- [ ] Implement strStr()
+- [ ] Evaluate Reverse Polish Notation
+
+## Medium
+- [ ] Single Number 
+- [ ] Reverse Integer
+- [ ] Unique Binary Search Trees
+- [ ] Populating Next Right Pointers in Each Node
+- [ ] Single Number II
+- [ ] Remove Element
+- [ ] Integer to Roman
+- [ ] Swap Nodes in Pairs
+- [ ] Symmetric Tree
+- [ ] Gray Code
+- [ ] N-Queens II
+- [ ] Generate Parentheses
+- [ ] Best Time to Buy and Sell Stock
+- [ ] Rotate Image
+- [ ] Linked List Cycle II
+- [ ] Search a 2D Matrix
+- [ ] Container With Most Water
+- [ ] Set Matrix Zeroes
+- [ ] Spiral Matrix II
+- [ ] Search in Rotated Sorted Array II
+- [ ] Remove Duplicates from Sorted Array II
+- [ ] Path Sum
+- [ ] Combinations
+- [ ] Remove Nth Node From End of List
+- [ ] Palindrome Number
+- [ ] Path Sum II
+- [ ] Unique Path II
+- [ ] Longest Consecutive Sequence
+- [ ] Converted Sorted List to Binary Search Tree
+- [ ] Triangle
+- [ ] Count and Say
+- [ ] Subsets II
+- [ ] Binary Tree Zigzag Level Order Traversal
+- [ ] Combination Sum
+- [ ] Partition List
+- [ ] Construct Binary Tree From Inorder and Postorder Traversal
+- [ ] Reverse Linked List II
+- [ ] N-Queens
+- [ ] Unique Binary Search Trees II
+- [ ] Insertion Sort List
+- [ ] Permutation II
+- [ ] Reverse Nodes in k-Group
+- [ ] Combination Sum II
+- [ ] ZigZag Conversion
+- [ ] Anagram
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Scramble String
+- [ ] Clone Graph
+- [ ] Permutation Sequence
+- [ ] Sudoku Solver
+- [ ] Longest Palindromic Substring
+- [ ] Spiral Matrix
+- [ ] Word Break
+- [ ] Restore IP Addresses
+- [ ] Sort List
+- [ ] Simplify Path
+- [ ] Interleaving String
+- [ ] Word Ladder
+- [ ] Substring with Concatenation
+- [ ] 3Sum
+- [ ] Decode Ways
+- [ ] Reverse Words in a String
+- [ ] Text Justification
+- [ ] Word Search
+
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
